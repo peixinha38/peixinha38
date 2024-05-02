@@ -1,10 +1,12 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é Sara 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
 
-@alurastartestudante
+
+Você pode entrar em contato comigo 📫
+00001095361569SP@al.educacao.sp.gov.br
+
+
